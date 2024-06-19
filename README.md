@@ -27,7 +27,7 @@ The continued pre-training step is based on Geneformer and we used it to further
 We fine-tuned a Stable Diffusion model for gene expression-to-image generation.
 
 ## Manuscript
-Please refer to our manuscript Xingjian, Chen et al. (2024) for more details.
+Please refer to our manuscript Xingjian et al. (2024) for more details.
 
 Contact
 -----------------------

@@ -1,0 +1,10 @@
+
+## Datasets
+
+We analyzed several publicly available spatial transcriptomics and sc/snRNA-seq datasets. 
+The Spatial Transcriptomics dataset can be downloaded from https://data.mendeley.com/datasets/29ntw7sh4r/5. 
+The 10x Genomics Visium dataset can be found at https://www.10xgenomics.com/resources/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0 and https://www.10xgenomics.com/resources/datasets/human-breast-cancer-block-a-section-2-1-standard-1-1-0. 
+The HTAPP MERFISH and paired scRNA-seq datasets can be found as part of the HTAN-HTAPP data release on Synapse (syn20834712). 
+The Nanostring CosMx SMI dataset can be found at https://nanostring.com/products/cosmx-spatial-molecular-imager/ffpe-dataset/nsclc-ffpe-dataset/. 
+Patch-seq datasets were downloaded from Brain Image Library https://download.brainimagelibrary.org/3a/88/3a88a7687ab66069/ and The DANDI Archive https://dandiarchive.org/dandiset/000020/. 
+The STcEM MERFISH dataset can be downloaded from the Gene Expression Omnibus (GEO) database under accession number GSE202638.
