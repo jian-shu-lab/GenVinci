@@ -48,9 +48,9 @@ We tested a checkpoint trained on one of Spatial Transcriptomics datasets and H&
 
 ## To-do-list (coming soon!)
 
-- [x] Upload the finetuning and image generation code
+- [x] Upload the pretraining and image generation code
 - [ ] Upload the pretrained model checkpoints and datasets
-- [ ] Provide the pretraining code 
+- [ ] Provide the finetuning code 
 - [ ] Finetuning examples for multi-modal integration, cell type annotation, and other tasks
 - [ ] Documentation website with readthedocs
 - [ ] Publish to huggingface model hub
