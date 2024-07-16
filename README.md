@@ -56,5 +56,5 @@ Please refer to our manuscript Xingjian et al. (2024) for more details.
 
 Contact
 -----------------------
-We are happy about any feedback! If you have any questions, please feel free to contact Xingjian Chen (xchen57@mgh.harvard.edu). Find more research in SHU LAB (https://www.jianshulab.org/).
+We enthusiastically welcome any feedback! If you have any questions, please feel free to contact Xingjian Chen (xchen57@mgh.harvard.edu). Find more research in SHU LAB (https://www.jianshulab.org/).
 
