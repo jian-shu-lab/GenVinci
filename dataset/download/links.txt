@@ -1,0 +1,1 @@
+We analyzed six spatial transcriptomics datasets across different sequencing resolutions and technologies (Spatial Transcriptomics, 10x Genomics Visium, HTAPP MERFISH and scRNA-seq, Nanostring CosMx SMI, Patch-seq, and STcEM MERFISH). The download links can be found in the manuscript.

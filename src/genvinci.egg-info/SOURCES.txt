@@ -1,0 +1,6 @@
+setup.py
+genvinci.egg-info/PKG-INFO
+genvinci.egg-info/SOURCES.txt
+genvinci.egg-info/dependency_links.txt
+genvinci.egg-info/requires.txt
+genvinci.egg-info/top_level.txt

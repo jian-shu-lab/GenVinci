@@ -1,0 +1,8 @@
+# Ignore specific directories
+dataset/he_st/
+pretrains/models/v1-5-pruned.ckpt
+output/he_st/ldm/
+output/he_st/mlm/
+
+# Ignore Python cache files
+**/__pycache__/
