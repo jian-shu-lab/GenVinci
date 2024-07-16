@@ -40,7 +40,7 @@ python3 ./src/finetune/gen_from_rna.py --dataset he_st --checkpoint checkpoint_1
 ```
 
 ## Checkpoint and demo dataset
-We tested a checkpoint trained on one of Spatial Transcriptomics datasets and H&E images. The generated images like following (the first column is the ground truth and we randomly generate 5 times from the same gene expression profiles).
+We tested a checkpoint trained on one of Spatial Transcriptomics datasets and H&E images. The generated images are shown below (the first column is the ground truth and we randomly generate 5 times from the same gene expression profile).
 <p align="center">
 <img src="./output/he_st/generate/09-01-2024-00-08-28/he_st/generate/12-01-2024-15-46-25/test_samples.png" width="50%" height="50%">
 </p>
@@ -48,6 +48,7 @@ We tested a checkpoint trained on one of Spatial Transcriptomics datasets and H&
 
 ## To-do-list (coming soon!)
 
+- [x] Upload the finetuning and image generation code
 - [ ] Upload the pretrained model checkpoints and datasets
 - [ ] Provide the pretraining code 
 - [ ] Finetuning examples for multi-modal integration, cell type annotation, and other tasks

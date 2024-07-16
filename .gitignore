@@ -7,4 +7,4 @@ output/he_st/mlm/
 # Ignore Python cache files
 **/__pycache__/
 
-finetune/dc_ldm/ldm_for_rna.py
+src/finetune/dc_ldm/
