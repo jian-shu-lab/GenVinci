@@ -45,9 +45,6 @@ We tested a checkpoint trained on one of Spatial Transcriptomics datasets and H&
 <img src="./output/he_st/generate/09-01-2024-00-08-28/he_st/generate/12-01-2024-15-46-25/test_samples.png" width="50%" height="50%">
 </p>
 
-We are still working on updating GenVinci. The pretrained model checkpoints and datasets, as well as finetuning examples for multi-modal integration, cell type annotation, and other tasks, will be coming soon.
-
-
 
 ## Acknowledgement
 
