@@ -1,0 +1,16 @@
+torch>=2.0
+torchvision
+numpy
+scipy
+pandas
+scanpy
+anndata
+scikit-learn
+scikit-image
+safetensors
+tqdm
+timm>=1.0
+huggingface_hub
+tifffile
+opencv-python-headless
+Pillow
