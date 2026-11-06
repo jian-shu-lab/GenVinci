@@ -1,0 +1,28 @@
+GenVinci
+Copyright (c) 2026 Jian Shu Lab
+
+The GenVinci code and model weights are licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License
+(CC BY-NC-ND 4.0); see the LICENSE file or
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+Use of GenVinci is also subject to the Terms of Use in README.md.
+
+Patent notice
+-------------
+A US provisional patent application covering aspects of this work has been
+filed by Mass General Brigham. No patent rights are granted by the
+CC BY-NC-ND 4.0 license (Section 2(b)(2)).
+
+Commercial use
+--------------
+Any commercial use, sale or other monetization of GenVinci and its
+derivatives requires prior approval and a separate license. For commercial
+licensing, contact Mass General Brigham Innovation or the corresponding
+author.
+
+Third-party components
+----------------------
+GenVinci-2DST uses H-optimus-1 (https://huggingface.co/bioptimus/H-optimus-1)
+as its image feature extractor. H-optimus-1 is not distributed with this
+repository and is subject to its own license (CC BY-NC-ND 4.0) and terms of
+use set by Bioptimus.
