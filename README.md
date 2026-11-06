@@ -120,13 +120,13 @@ The full ImageOmicsNet-300M dataset, including newly generated imaging and omics
 
 ## License and Terms of Use
 
-The GenVinci code and model weights are released under the [CC BY-NC-ND 4.0](LICENSE) license, which permits use only for **non-commercial, academic research purposes with proper attribution**. Non-commercial means "not primarily intended for or directed towards commercial advantage or monetary compensation" ([CC BY-NC-ND 4.0, Section 1(h)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)).
+The GenVinci code and model weights are released under the [CC BY-NC-ND 4.0](LICENSE) license, which permits use only for non-commercial, academic research purposes with proper attribution. Non-commercial means "not primarily intended for or directed towards commercial advantage or monetary compensation" ([CC BY-NC-ND 4.0, Section 1(h)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)).
 
 By downloading or using the GenVinci models, you agree to the following terms:
 - Any commercial use, sale or other monetization of the GenVinci models and their derivatives, which include models trained on outputs from the GenVinci models or datasets created from the GenVinci models, is prohibited and requires prior approval.
 - You agree not to distribute, publish or reproduce a copy of the model weights. If another user within your organization wishes to use the GenVinci models, they must obtain the weights individually and agree to these terms.
 - You may not attempt to re-identify the de-identified data used to develop the underlying models.
 
-A US provisional patent application covering aspects of this work has been filed by Mass General Brigham, and no patent rights are granted by this license (see [NOTICE](NOTICE)). **Commercial entities, including pharmaceutical and biotechnology companies, need a separate license: please contact Mass General Brigham Innovation or the corresponding author.**
+A US provisional patent application covering aspects of this work has been filed by Mass General Brigham, and no patent rights are granted by this license (see [NOTICE](NOTICE)). Commercial entities, including pharmaceutical and biotechnology companies, need a separate license: please contact Mass General Brigham Innovation or the corresponding author.
 
 GenVinci-2DST uses [H-optimus-1](https://huggingface.co/bioptimus/H-optimus-1), which is released by Bioptimus under its own [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license and terms of use; by using GenVinci-2DST you also agree to its terms.
